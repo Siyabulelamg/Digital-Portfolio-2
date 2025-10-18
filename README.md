@@ -1,4 +1,4 @@
-# Digital-Portfolio-2
+# Digital-Portfolio
 Digital Portfolio for Work Readiness Training
 ## Section 1: Business Communication
 
@@ -47,7 +47,7 @@ I now feel confident and well-prepared for interviews. The CAR method gives me s
 ## Section 3: Mock Interview
 
 ### [Mock Interview](./Mock-Interview.pdf)  
-### [Mock Interview Video](./Mock-Interview-Video.mp4)
+### [Mock Interview Video](./Mock-Interview.mp4)
 
 ---
 
